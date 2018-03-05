@@ -15,4 +15,6 @@ This repository will serve to track my daily progress.
 
 ### March :date:
 * [Day 01 - JS Ninja Course  - Lessons 15 and 16 and my github pages](2018/March/01.md)
-* [Day 01 - JS Ninja Course  - Lessons 17 and 18](2018/March/02.md)
+* [Day 02 - JS Ninja Course  - Lessons 17 and 18](2018/March/02.md)
+* [Day 03 - JS Ninja Course  - Lessons 19](2018/March/03.md)
+* [Day 04 - JS Ninja Course  - Lessons 20](2018/March/04.md)
