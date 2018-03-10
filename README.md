@@ -22,3 +22,4 @@ This repository will serve to track my daily progress.
 * [Day 06 - Deep Work book and JS Ninja Course  - Lesson 23](2018/March/06.md)
 * [Day 07 - Deep Work book and JS Ninja Course  - Lesson 24](2018/March/07.md)
 * [Day 08 - Deep Work book and JS Ninja Course  - Lessons 25 and 26](2018/March/08.md)
+* [Day 09 - Deep Work book and JS Ninja Course  - Lesson 27](2018/March/08.md)
